@@ -1,12 +1,12 @@
-MY AMAZING IOT 
+# AMAZING IOT 
 
-Thanks to my amazing code
-YOU CAN 
+Thanks to my **amazing code** <br>
+YOU CAN <br>
 control an LED (or a tubelight) from a remote location.
 
-You need a raspberry pi.
+You only need ***A RASPBERRY PI.***
 
-STEPS TO RUN:
+**STEPS TO RUN:**
 
 1. Save ./server folder to server machine.
 2. Save ./client folder to raspberry pi.
@@ -16,7 +16,7 @@ STEPS TO RUN:
 5. Run npm start on both. (Or use pm2 or nodemon)
 6. Open http://SERVER_ADDRESS:3001 in browser and control the LED.
 
-IN THE FUTURE:
+**IN THE FUTURE:**
 
-Will add a circuit for connecting an actual tubelight if I actually do it. 
-Might add an arduino version.
+1.Will add a circuit for connecting an actual tubelight if I actually do it. 
+2. Might add an arduino version.
