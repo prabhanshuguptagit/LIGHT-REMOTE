@@ -1,0 +1,15 @@
+{
+  "name": "lightremote-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "socket.io-client": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Prabhanshu Gupta",
+  "license": "ISC"
+}
