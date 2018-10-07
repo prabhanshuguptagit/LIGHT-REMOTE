@@ -21,6 +21,6 @@ app.get('/', function(req, res){
 publicDir = require('path').join(__dirname, '/public');
 app.use(express.static(publicDir)); 												
 
-http.listen(3001, "0.0.0.0", function () {
-  console.log('listening on *:3001');
+http.listen(3000, "0.0.0.0", function () {
+  console.log('listening on *:3000');
 });
